@@ -18,3 +18,4 @@ Table will show user details.
 
 ## How to submit?
 
+Fork this repository from the `Fork` button above
