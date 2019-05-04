@@ -11,7 +11,7 @@
 * Cards containing some text
 
 #### SIDEBAR - 
-Sidebar should include navigation likes viz. USERS, TABLES. Users Link will show all registered users. Add other fake links in sidebar.
+Sidebar should include navigation likes viz. **USERS**, **TABLES**. Users Link will show all registered users. Add other fake links in sidebar.
 
 #### TABLES -
 Table will show user details.
