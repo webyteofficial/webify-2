@@ -18,4 +18,29 @@ Table will show user details.
 
 ## How to submit?
 
-Fork this repository from the `Fork` button above
+Fork this repository from the `Fork` button above then run the following commands.
+
+*Note  - Replace **\<username>** with your github username and **\<name>** with your name.*
+
+
+```bash
+git clone https://github.com/<username>/webify-2.git
+
+mkdir <name>
+
+cd <name>
+```
+
+Paste your files in this directory.
+
+```bash
+git add .
+
+git commit -m "Webify Submission"
+
+git push origin master
+```
+
+Go to your forked github repository on github and create a pull request.
+
+Tada! Let's get some refreshments now buddy.
